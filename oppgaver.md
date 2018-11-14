@@ -119,7 +119,7 @@ Man kan teste flere ting etterhverandre
 a = 5
 if a == 5:
   print("a er faktisk 5")
-else if a == 10:
+elif a == 10:
   print("a er 10")
 else:
   print("A er hverken 5 eller 10")
