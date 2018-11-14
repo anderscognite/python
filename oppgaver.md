@@ -12,12 +12,11 @@ Du vil da møte et bilde som dette:
 Alle brukernavn og passord vil virke, men velg `fornavn.etternavn.årstall` så er vi sikre på at dere har hver deres maskin med Python. Logg inn ved å trykke `Sign In`.
 
 ## 2. Lag ny `arbeidsbok`
-Etter å ha logget inn ser du følgende side:
+Etter å ha logget inn ser du følgende side. For å begynne å skrive og kjøre kode trykker du på `New` og velger `Python 3`.
 ![](04_new_python3.png "")
-For å begynne å skrive og kjøre kode trykker du på `New` og velger `Python 3`. Du får da et vindu som ser slik ut:
-![](05_commands.png "")
+Du får da et vindu som ser slik ut. Her kan du skrive kode og trykke `Run` (markert med rosa).
 
-![](06_result.png "")
+![](06_results.png "")
 
 ## 3. Kjør kode
 I feltet der det står `In [ ]:` kan du skrive Python-kode. Denne kjøres ved å trykke på `Run` (knapp på skjermen) eller `Ctrl+Enter` (tastaturet). Hvis du for eksempel skriver
