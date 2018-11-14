@@ -1,6 +1,11 @@
 # Kom i gang med Python
 For denne workshopen har vi satt opp et system slik at alle kan kjøre Python i nettleseren. Normalt kan man kjøre Python på egen maskin, men når noen har Windows, mens andre har Mac kan det ofte ta tid å få satt opp for alle. 
 
+## 0. Andre ressurser
+- www.learnpython.org (fine tutorials)
+- Google (man kan ofte søke fullstendige setninger)
+- stackoverflow.com
+
 ## 1. Åpne Python
 For å åpne Python kan du besøke
 
